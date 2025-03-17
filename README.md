@@ -6,17 +6,11 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SamuelLima007&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Samuel Lima github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelLima007&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117"/>
   
-  <a href="https://www.linkedin.com/in/samuel-lima/" target="_blank">
+  <a href="https://www.linkedin.com/in/samuel-lima-88732a232" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"/>
   </a>
-  <a href="https://www.instagram.com/samueldev._/" target="_blank">
+  <a href="https://www.instagram.com/samuel.l44?igsh=MWtmd3FjeXl6bTR1Yg==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;">
-  </a>
-  <a href="https://www.youtube.com/channel/UCXXXXXX" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;">
-  </a>
-  <a href="https://discord.gg/XXXXXXX" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;">
   </a>
 </div>
 
