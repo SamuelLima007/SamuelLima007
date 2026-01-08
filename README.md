@@ -36,7 +36,7 @@ Atuo com **C#**, **ASP.NET Core**, **Angular**, **TypeScript**, **SQL/PostgreSQL
 ---
 
 ## 📫 Contato
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 20px;">
   <a href="https://www.linkedin.com/in/samuel-lima-88732a232" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%2300acee.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -48,8 +48,4 @@ Atuo com **C#**, **ASP.NET Core**, **Angular**, **TypeScript**, **SQL/PostgreSQL
   </a>
 </div>
 
----
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=4169E1&height=50&section=footer"/>
-</div>
